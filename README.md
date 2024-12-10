@@ -4,16 +4,12 @@ Quản lý bài tập của sinh viên - Học phần Kỹ thuật lập trình
 Học phần giúp trang bị cho sinh viên các kiến thức cơ bản về kỹ thuật lập trình giải quyết bài toán trên máy tính. Đồng thời học phần cũng nhằm rèn luyện cho sinh viên các kỹ năng phân tích bài toán, lập trình giải các bài toán trên máy tính bằng ngôn ngữ lập trình C với giải thuật hiệu quả. Học phần cũng giúp hình thành cho sinh viên thái độ và nhận thức đúng đắn về tầm quan trọng của học phần và phương pháp lập trình trên máy tính.
 
 1. Số tín chỉ/đvht: 04
-
-Lý thuyết: 02
-
-Thực hành: 02
+- Lý thuyết: 02
+- Thực hành: 02
 
 2. Đối tượng học:
-
-Bậc học: Đại học        
-
-Hệ: Chính quy
+- Bậc học: Đại học        
+- Hệ: Chính quy
 
 3. Điều kiện tiên quyết/song hành:  Không
 
